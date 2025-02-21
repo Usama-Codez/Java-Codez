@@ -1,1 +1,1 @@
-This Repo contains some example implementations of components of app in android studio.
+## This repo contains some example implementations of components of app in android studio.
