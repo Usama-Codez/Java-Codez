@@ -22,7 +22,10 @@ CounterApp/ │── .gradle/ │── .idea/ │── app/ │ ├── src
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/Usama-Codez/Java-Codez.git
-   cd CounterApp
+
+1. **Get to the project directory**
+   ```sh
+   cd Java-Codez
 Open in Android Studio
 
 Launch Android Studio and select Open an Existing Project.
