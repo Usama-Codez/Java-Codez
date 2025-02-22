@@ -13,9 +13,6 @@ CounterApp is a simple Android application built using Java/Kotlin and Android S
 - XML for UI design
 - Git for version control
 
-## 📂 Project Structure
-CounterApp/ │── .gradle/ │── .idea/ │── app/ │ ├── src/ │ │ ├── main/ │ │ │ ├── java/com/example/counterapp/ │ │ │ │ ├── MainActivity.java (or MainActivity.kt) │ │ │ ├── res/ │ │ │ │ ├── layout/activity_main.xml │ │ │ │ ├── values/strings.xml │ ├── build.gradle │── build/ │── gradle.properties │── README.md │── .gitignore │── settings.gradle
-
 ## Setup & Installation
 1. **Clone the Repository**
    ```sh
