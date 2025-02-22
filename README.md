@@ -6,7 +6,6 @@ CounterApp is a simple Android application built using Java/Kotlin and Android S
 ## 🚀 Features
 - Increment and decrement counter with button clicks
 - Simple and user-friendly UI
-- ✅ Lightweight and efficient
 
 ## 🛠️ Technologies Used
 - Android Studio
