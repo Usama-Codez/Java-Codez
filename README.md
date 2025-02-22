@@ -4,9 +4,8 @@
 CounterApp is a simple Android application built using Java/Kotlin and Android Studio. It provides a basic counter functionality that allows users to increment and decrement a number dynamically. This project serves as a beginner-friendly introduction to Android development, UI interactions, and state management.
 
 ## 🚀 Features
-- ✅ Increment and decrement counter with button clicks
-- ✅ Reset counter to default value
-- ✅ Simple and user-friendly UI
+- Increment and decrement counter with button clicks
+- Simple and user-friendly UI
 - ✅ Lightweight and efficient
 
 ## 🛠️ Technologies Used
